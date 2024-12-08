@@ -8,3 +8,5 @@ setup.sh
 Dockerfile
 docker-compose.yml
 new_ssh_key
+reports
+uploads
