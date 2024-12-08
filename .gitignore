@@ -1,4 +1,5 @@
 .env
+main.py
 deploy.bat
 connect.bat
 fix_known_hosts.bat
